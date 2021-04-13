@@ -1,0 +1,2 @@
+# mailChimpForDummies
+learning mailchimp API
